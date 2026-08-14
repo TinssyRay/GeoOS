@@ -28,7 +28,7 @@ Expect bugs and the fact that this system is probably not useful for anything se
 
 PL:
 
-> **Parodia, eksperyment i dowód na to, że miałem za dużo wolnego czasu przed komputerem i nigdy nie wychodziłem na zewnątrz (touch grass).**
+> **Parodia, eksperyment i dowód na to, że miałem za dużo wolnego czasu przed komputerem i nigdy nie wychodziłem na zewnątrz (by dotykać trawy).**
 
 ## 📌 O co w tym chodzi?
 GeoOS to całkowicie hobbystyczny projekt oparty na Linuksie. Zamiast stabilności i korporacyjnego wsparcia znajdziesz tu eksperymentalne motywy, własnoręcznie modyfikowane menu rozruchowe, nawiązania do Geometry Dash... i może jakieś easter eggi? To jest właśnie "GeoOS".
