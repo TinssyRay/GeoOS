@@ -37,7 +37,7 @@ GeoOS to całkowicie hobbystyczny projekt oparty na Linuksie. Zamiast stabilnoś
 Odpowiedź jest prosta: po prostu gram w moją ulubioną grę, Geometry Dash.
 Lubię też surfować po internecie i sprawdzać, co robią inni gracze GD. Jakiś czas temu zobaczyłem, że "Geo GD" wrzucił film pt. „Are accurate hitboxes Possible with accurate hitboxes?”. Film był całkiem zabawny. Ale ten mem o hitboxach stał się tak popularny, że nawet mój ulubiony YouTuber, "Blueskii", zrobił serię około 5 filmów, w których "walczy" z Geo GD, żeby ten wziął swoje tabletki.
 "GeoOS" to mój sposób na dołączenie do tego trendu i moja odpowiedź na to wszystko.
-Ciekawostka: Geo zaczął robić nie tylko dokładne, ale też pochylone i negatywne hitboxy, a pomysł na to... jest dość podobny do tych dokładnych.
+Ciekawostka: Geo zaczął robić nie tylko dokładne, ale też pochylone i negatywne (minusowe) hitboxy, a pomysł na to... jest dość podobny do tych dokładnych.
 
 (Kanały na YouTube wspomnianych osób:
 Blueskii: https://www.youtube.com/@Blueskii ;
