@@ -48,7 +48,7 @@ Geo GD: https://www.youtube.com/@ItsMeGeoGD)
 Oczekuj błędów i faktu, że ten system prawdopodobnie do niczego poważnego się nie nadaje (poza dobrą zabawą przy tworzeniu!).
 
 ## 🛠️ Co już zrobiono?
-* **Boot Menu:** Dodany `splash.png` i motyw Geo (ciągle zepsuty, ale pracuję nad tym).
+* **Boot Menu:** Dodany `splash.png` i motyw Geo (minimalnie zbugowany, ale pracuję nad tym).
 * **Wewnętrzny branding:** Zmieniona zmienna "RELEASE" i tożsamość systemu, żeby chociaż w środku udawał prawdziwy GeoOS.
 * **Eksperymenty:** Tapety i inne losowe modyfikacje.
 
